@@ -4,6 +4,7 @@ Doom 3D                        ┃        XX.XX. 2008        ┃          ---   
 Jetski 2D                      ┃        XX.XX. 2008        ┃          ***          ┃
 Grand Theft Auto: San Andreas  ┃        XX.XX. 2010        ┃          ---          ┃
 Grand Theft Auto IV            ┃        XX.XX. 2012        ┃          ---          ┃
+Minecraft                      ┃        XX.XX. 2014        ┃       XX.XX. 2014     ┃
 Clustertruck                   ┃        23.09. 2022        ┃          ---          ┃
 Cooking Simulato               ┃        23.09. 2022        ┃          ***          ┃
 Farming Simulator 22           ┃        23.09. 2022        ┃          ***          ┃
